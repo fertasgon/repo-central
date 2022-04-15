@@ -5,10 +5,8 @@ public class BibloitecaApp
 
 	public static void main(String[] args)
 	{
-		Livro l = new Livro();		
-		Usuario u = new Usuario();
+		Livro l = new Livro();
 		
-		Emprestimo emprestimo = new Emprestimo();
 		
 		
 		
